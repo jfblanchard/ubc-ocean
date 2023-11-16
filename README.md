@@ -1,2 +1,2 @@
 # ubc-ocean
-UBC OCEAN
+UBC OCEAN Cancer Subtype Prediction
