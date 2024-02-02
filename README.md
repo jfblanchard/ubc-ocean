@@ -1,8 +1,8 @@
 # ubc-ocean
 ### UBC OCEAN Cancer Subtype Prediction
 
-Most code is on Kaggle (210 submissions). 
+Temp repo for sharing jupyter notebook fragments.  Final code and submissions are on Kaggle (210 submissions). 
 
-Got a Bronze Medal on this competition!
+Final Result was a Bronze Medal on this competition!
 
 
